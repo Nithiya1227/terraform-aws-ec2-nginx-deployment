@@ -3,4 +3,4 @@ apt update -y
 apt install nginx -y
 systemctl start nginx
 systemctl enable nginx
-echo "<h1>Hello from Terraform EC2</h1>" > /var/www/html/index.html
+echo "<h1>Deployed via terraform</h1>" > /var/www/html/index.html
