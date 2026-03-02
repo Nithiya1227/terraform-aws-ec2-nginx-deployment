@@ -138,20 +138,23 @@ This confirmed successful end-to-end delivery:
 
 ## 📸 Project Screenshots
 
+### Terraform main.tf file
+![Terraform Apply](screenshots/terraform-main.tf.png)
+
 ### Terraform Apply Output
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](screenshots/terraform-applied.png)
 
 ### AWS EC2 Dashboard
-![EC2 Dashboard](screenshots/ec2-dashboard.png)
+![EC2 Dashboard](screenshots/ec2-terraform.png)
 
 ### Security Group HTTP Rule
-![Security Group](screenshots/security-group.png)
+![Security Group](screenshots/ec2-security.png)
 
 ### SSH Debugging
-![SSH Terminal](screenshots/ssh-terminal.png)
+![SSH Terminal](screenshots/ec2-terminal.png)
 
 ### Live Website
-![Live Output](screenshots/live-site.png)
+![Live Output](screenshots/terraform-output.png)
 
 These screenshots prove hands-on implementation.
 
